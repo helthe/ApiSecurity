@@ -12,7 +12,7 @@
          bootstrap="vendor/autoload.php"
 >
     <testsuites>
-        <testsuite name="Helthe Api Security Component Test Suite">
+        <testsuite name="Helthe API Security Component Test Suite">
             <directory>./Tests/</directory>
         </testsuite>
     </testsuites>
