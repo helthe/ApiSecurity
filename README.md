@@ -1,4 +1,4 @@
-# Helthe API Security
+# Helthe API Security [![Build Status](https://travis-ci.org/helthe/ApiSecurity.png?branch=master)](https://travis-ci.org/helthe/ApiSecurity) [![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/helthe/ApiSecurity/badges/quality-score.png?s=aebda5f26e67d84fa00a4707b635a69e3e408ac5)](https://scrutinizer-ci.com/g/helthe/ApiSecurity/)
 
 Helthe API Security is a library for doing API key authentication with the
 Symfony [Security Component](http://symfony.com/doc/current/components/security/introduction.html).
